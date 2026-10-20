@@ -1,0 +1,8 @@
+{
+  "name": "Nad e Ali A-Level AI Academy",
+  "description": "AI-powered educational platform for A-Level Physics, Chemistry, and Computer Science students targeting A* grades, featuring photo question solving, intelligent tutoring, syllabus management, and parent monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
